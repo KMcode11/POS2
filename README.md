@@ -1,0 +1,2 @@
+# POS2
+POINT OF SALE SYSTEM For DrugStore
